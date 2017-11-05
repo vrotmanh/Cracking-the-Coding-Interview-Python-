@@ -2,10 +2,10 @@ import unittest
 
 def rotate_matrix(m):
 	n = len(m)
-	res = [[0]*n]*n
+	res = [[0 for i in range(n)] for j in range(n)]
 	for i in range(n):
 		for j in range(n):
-			res[j][n-i-1] = m[i][j]
+			res[j][n-1-i]=m[i][j]
 	return res
 
 print(rotate_matrix([
@@ -15,11 +15,6 @@ print(rotate_matrix([
             [16, 17, 18, 19, 20],
             [21, 22, 23, 24, 25]
         ]))
-
-# 00 -> 0n
-# 01 -> 1n
-# 12 -> 2(n-1)
-
 
 class Test(unittest.TestCase):
     '''Test Cases'''

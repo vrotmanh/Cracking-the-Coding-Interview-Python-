@@ -13,8 +13,6 @@
 * [4) Palindrome Permutation](https://github.com/vrotmanh/Cracking-the-Coding-Interview-Python-/blob/master/Chapter%201%20(Arrays%20and%20Strings)/4_palindrome_permutation.py)
 * [5) One Away](https://github.com/vrotmanh/Cracking-the-Coding-Interview-Python-/blob/master/Chapter%201%20(Arrays%20and%20Strings)/5_one_away.py)
 * [6) String Compression](https://github.com/vrotmanh/Cracking-the-Coding-Interview-Python-/blob/master/Chapter%201%20(Arrays%20and%20Strings)/6_string_compression.py)
-* [7) Rotate Matrix]()
-Not ready
+* [7) Rotate Matrix](https://github.com/vrotmanh/Cracking-the-Coding-Interview-Python-/blob/master/Chapter%201%20(Arrays%20and%20Strings)/7_rotate_matrix.py)
 * [8) Zero Matrix](https://github.com/vrotmanh/Cracking-the-Coding-Interview-Python-/blob/master/Chapter%201%20(Arrays%20and%20Strings)/8_zero_matrix.py)
-* [9) String Rotation]()
-Not ready
+* [9) String Rotation](https://github.com/vrotmanh/Cracking-the-Coding-Interview-Python-/blob/master/Chapter%201%20(Arrays%20and%20Strings)/9_string_rotation.py)
